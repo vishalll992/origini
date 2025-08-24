@@ -15,8 +15,8 @@
       <div class="footer-section">
         <h3>Contact</h3>
         <p>hello@origin8tivehub.com</p>
-        <p>+1 (555) 123-4567</p>
-        <p>123 Innovation Street</p>
+        <p>8689975504</p>
+        <p>Marol Naka Time Square</p>
         <p>Creative District, CD 12345</p>
       </div>
     </div>
@@ -29,3 +29,4 @@
 <script src="script.js"></script>
 </body>
 </html>
+
